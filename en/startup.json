@@ -1,0 +1,15 @@
+{
+	"FirstStart": "Hello and Welcome to Kamban. Start with download public board or create your own.",
+	"Tips": [
+		"Tip: quik create tiket - press Ctrl+W then type header and press enter.",
+		"Tip: backup your labor - press Ctr+U and export recent boards"
+	],
+	"Basement": "2018-2020 Kamban ",
+	"PublicBoards": [
+		{
+			"Name": "Make new product example",
+			"Description": "Select idea, implement and sale.",
+			"Url": "https://github.com/Totopolis/Kamban.Public/en/MakeProduct.kam"
+		}
+	]
+}
