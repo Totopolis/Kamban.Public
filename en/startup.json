@@ -10,6 +10,11 @@
 			"Name": "Make new product example",
 			"Description": "Select idea, implement and sale.",
 			"Url": "https://github.com/Totopolis/Kamban.Public/raw/master/en/MakeProduct_en.kam"
+		},
+		{
+			"Name": "Software development processes",
+			"Description": "Coding, testing, etc.",
+			"Url": "https://github.com/Totopolis/Kamban.Public/raw/master/en/MakeProduct_en.kam"
 		}
 	]
 }
